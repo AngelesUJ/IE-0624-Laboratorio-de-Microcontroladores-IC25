@@ -2,7 +2,7 @@
 
 # IE-0624: Laboratorio de Microcontroladores, I-2025
 
-**Estudiante:** Ángeles Ulate Jarquín  
+**Estudiante:** Angeles Ulate Jarquín  
 **Carné:** C07908  
 **Profesor:** MSc. Marco Villalta Fallas  
 **Grupo:** 001  
@@ -31,7 +31,6 @@ La evaluación del curso se basa en proyectos individuales y laboratorios práct
 
 Este repositorio está organizado de la siguiente manera para facilitar la navegación y el acceso a los documentos y código:
 
-```plaintext
 /Laboratorio1
 |-- informe
 |   |-- Lab1_Informe.pdf   # Informe del laboratorio en formato PDF
