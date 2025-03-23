@@ -30,7 +30,7 @@ La evaluación del curso se basa en proyectos individuales y laboratorios práct
 ## Árbol de Repositorio
 
 Este repositorio está organizado de la siguiente manera para facilitar la navegación y el acceso a los documentos y código:
-
+```plaintext
 /Laboratorio1
 |-- informe
 |   |-- Lab1_Informe.pdf   # Informe del laboratorio en formato PDF
