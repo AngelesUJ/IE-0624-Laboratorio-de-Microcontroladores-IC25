@@ -31,12 +31,15 @@ La evaluación del curso se basa en proyectos individuales y laboratorios práct
 
 Este repositorio está organizado de la siguiente manera para facilitar la navegación y el acceso a los documentos y código:
 
+```plaintext
 /Laboratorio1
 |-- informe
-|   └── Lab1_Informe.pdf
+|   |-- Lab1_Informe.pdf   # Informe del laboratorio en formato PDF
+|
 |-- src
-    |-- dado_sim         
-    └── dado_c           
+    |-- dado_sim           # Carpeta para archivos de simulación del dado
+    |-- dado_c             # Carpeta para código fuente en C del dado
+        
        
 
 
