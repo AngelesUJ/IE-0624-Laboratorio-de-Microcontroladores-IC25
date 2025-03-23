@@ -27,7 +27,16 @@ El curso combina clases teóricas y prácticas, incluyendo demostraciones y labo
 
 La evaluación del curso se basa en proyectos individuales y laboratorios prácticos, culminando con un proyecto final que integra los conocimientos y habilidades desarrolladas a lo largo del semestre.
 
-%## Árbol de Repositorio
+## Árbol de Repositorio
 
-%Este repositorio está organizado de la siguiente manera para facilitar la navegación y el acceso a los documentos y código:
+Este repositorio está organizado de la siguiente manera para facilitar la navegación y el acceso a los documentos y código:
+
+/Laboratorio1
+|-- informe
+|   └── Lab1_Informe.pdf
+|-- src
+    |-- dado_sim         
+    └── dado_c           
+       
+
 
