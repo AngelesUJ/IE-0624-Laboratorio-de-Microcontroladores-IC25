@@ -33,12 +33,13 @@ Este repositorio está organizado de la siguiente manera para facilitar la naveg
 ```plaintext
 /Laboratorio_1
 |-- informe
-|   |-- Lab1_Instrucciones.pdf   # Instrucciones del laboratorio en formato PDF
-|   |-- Lab1_Informe.pdf   # Informe del laboratorio en formato PDF
+|   |-- Lab1_Instrucciones.pdf   # Instrucciones del laboratorio 1
+|   |-- Lab1_Informe.pdf         # Informe del laboratorio 1
 |
 |-- src
-    |-- dado_sim           # Archivo de simulación del dado
-    |-- dado_c             # Código fuente en C del dado
+    |-- Makefile                 # Instrucciones para compilar automáticamente
+    |-- dado_sim                 # Archivo de simulación del dado
+    |-- dado_c                   # Código fuente en C del dado
         
        
 
