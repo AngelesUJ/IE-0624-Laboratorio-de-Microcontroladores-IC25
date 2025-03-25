@@ -38,8 +38,8 @@ Este repositorio está organizado de la siguiente manera para facilitar la naveg
 |
 |-- src
     |-- Makefile                 # Instrucciones para compilar automáticamente
-    |-- blinkpic.sim                 # Archivo de simulación del dado
-    |-- blink.c                   # Código fuente en C del dado
+    |-- blinkpic.sim             # Archivo de simulación del dado
+    |-- blink.c                  # Código fuente en C del dado
         
        
 
